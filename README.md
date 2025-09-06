@@ -5,7 +5,7 @@
   <img alt="Charon SMS Bomber" src="images/logo.png" width="650"> 
   <h1>Charon SMS Bomber</h1>
   <img alt="Language" src="https://img.shields.io/badge/Language-Python%203.9-blue?style=for-the-badge">
-  <img alt="Supported Platform" src="https://img.shields.io/badge/Platform-All_Platforms-red?style=for-the-badge">
+  <img alt="Supported Platform" src="https://img.shields.io/badge/Platform-All_Platform-red?style=for-the-badge">
   <img alt="License" src="https://img.shields.io/badge/Licence-CGBL-orange?style=for-the-badge">
   <br>
   <br>
