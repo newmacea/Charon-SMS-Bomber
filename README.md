@@ -2,16 +2,15 @@
   <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
 </head>
 <div align="center">
-  <img alt="Charon SMS Bomber" src="images/logo.png" width="650"> 
-  <h1>Charon SMS Bomber</h1>
-  <img alt="Language" src="https://img.shields.io/badge/Language-Python%203.9-blue?style=for-the-badge">
-  <img alt="Supported Platform" src="https://img.shields.io/badge/Platform-All_Platform-red?style=for-the-badge">
-  <img alt="License" src="https://img.shields.io/badge/Licence-CGBL-orange?style=for-the-badge">
-  <br>
-  <br>
-  <p>
-<code><strong>Charon SMS Bomber</strong></code> is a powerful open-source tool written in Python 3, designed to deliver massive volumes of SMS and call spam simultaneously to multiple target numbers.
-  </p>
+<img alt="Charon SMS Bomber" src="images/logo.png" width="650"> 
+# Charon SMS Bomber
+### _**Attacking To Multiple Phone Numbers With SMS & CALL Spam**_
+<img alt="Language" src="https://img.shields.io/badge/Language-Python%203.9-blue?style=for-the-badge">
+<img alt="Supported Platform" src="https://img.shields.io/badge/Platform-All_Platform-red?style=for-the-badge">
+<img alt="License" src="https://img.shields.io/badge/Licence-CGBL-orange?style=for-the-badge">
+
+> `Charon SMS Bomber` is a powerful open-source tool written in Python 3, designed to deliver massive volumes of SMS and call spam simultaneously to multiple target numbers.
+
 </div>
 
 ## Project Programmer
@@ -85,22 +84,28 @@ Otherwise, you can download the zip file from this [link](https://github.com/Ch4
 
 ## ✨ Features
 
-- More Than 250 API For Attacking
-- Multi Target Phone Numbers
-- Config Persistence
-- Support Multi Processing
-- Update Checker
-- Good Design
-- Very High Speed
-- Advanced Error Handling
+- **More Than 250 API For Attacking**
+- **Multi Target Phone Numbers**
+- **Config Persistence**
+- **Support Multi Processing**
+- **Update Checker**
+- **Good Design**
+- **Very High Speed**
+- **Advanced Error Handling**
 
-## ❤️ Donation
+## ❤️ Support the Project
+If you find this tool useful, consider donating:
 
-> bitcoin: bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+| Cryptocurrency | Address                                      |
+| :------------- | :------------------------------------------- |
+| **BTC**        | `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0` |
+| **ETH**        | `0xfddbd535a4ad28792cbebceee3d6982d774e6d13` |
+| **USDT**       | `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`         |
+> 💖 Your support helps keep the project alive and improving!
 
 ## 🚨 Reporting Issues
-
-If you are facing a configuration issue or something is not working as you expected to be, please use the **Ch4120N@Proton.me**
+> If you encounter bugs, configuration issues, or unexpected behavior, please reach out: 
+📩 Ch4120N@Proton.me
 
 ## ⚠️ Legal disclaimer ⚠️
 
@@ -109,3 +114,10 @@ If you are facing a configuration issue or something is not working as you expec
 ## Licence
 
 - CGBL (Charon General Black Licence)
+
+---
+<div align="center">
+
+**⭐ If you like this project, don’t forget to give it a star!**
+
+</div> 
