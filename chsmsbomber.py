@@ -66,7 +66,7 @@ class ChSMSBomber:
 
         # Show banner and check for updates
         print(Banner.DefaultBanner())
-        self.check_update()
+    
 
         # Menu loop
         while True:
