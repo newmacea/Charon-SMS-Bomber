@@ -104,27 +104,7 @@ class ChSMSBomber:
         print("\n\n", "\r" + Logs.error("Program Interrupted!"), flush=True)
         os.kill(os.getpid(), signal.SIGTERM)
 
-    def check_update(self):
-        """
-        Compare local VERSION with the GitHub version file.
-        Terminates if update is available.
-        """
-        print(Logs.fetchMessage("Checking for updates ..."))
-        fver = requests.get(
-            "https://raw.githubusercontent.com/Ch4120N/Charon-SMS-Bomber/master/version"
-        ).text.strip()
-
-        if fver != VERSION:
-            print(Logs.generalMessage(
-                f"{Fore.LIGHTRED_EX}An update available. "
-                f"Please visit {Fore.LIGHTBLUE_EX}https://github.com/Ch4120N/Charon-SMS-Bomber"
-            ))
-            colorizeInput(INPUT_EXIT)
-            sys.exit(1)
-        else:
-            print(Logs.generalMessage(f"{Fore.LIGHTGREEN_EX}ChSMSBomber is up to date"))
-            time.sleep(1.5)
-
+    
     def send_request(self, session, api_config):
         """
         Sends a request to an API endpoint.
